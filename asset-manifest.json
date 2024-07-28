@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/NewProjectt/static/css/main.26432ae0.css",
+    "main.js": "/NewProjectt/static/js/main.7f516967.js",
+    "static/media/mis.jpg": "/NewProjectt/static/media/mis.f59aba9e9f357b06bb73.jpg",
+    "static/media/images.jpg": "/NewProjectt/static/media/images.0d022a85669e0986f808.jpg",
+    "static/media/baf.jpg": "/NewProjectt/static/media/baf.47cdfc5b1453e9021068.jpg",
+    "static/media/icc.jpg": "/NewProjectt/static/media/icc.d95411be196afda54018.jpg",
+    "static/media/scooop.jpg": "/NewProjectt/static/media/scooop.44fe95aafc12d7076282.jpg",
+    "static/media/VanillaBean.jpg": "/NewProjectt/static/media/VanillaBean.d80d2d10d57b0d00c42e.jpg",
+    "static/media/event2.jpg": "/NewProjectt/static/media/event2.2a4f9bfb48978017add9.jpg",
+    "static/media/event4.jpg": "/NewProjectt/static/media/event4.08f0d39c7dc6e127ac1e.jpg",
+    "static/media/mint.jfif": "/NewProjectt/static/media/mint.f2d8945cfd92394423d5.jfif",
+    "static/media/event.jpeg": "/NewProjectt/static/media/event.50e42756e416b958b6a5.jpeg",
+    "static/media/Strawbery.jpg": "/NewProjectt/static/media/Strawbery.c5451f060d7eaf597779.jpg",
+    "static/media/logo.png": "/NewProjectt/static/media/logo.d3c1de5a1016e672e9fb.png",
+    "static/media/happyFaces.jpg": "/NewProjectt/static/media/happyFaces.e7ba0ceec86fcdde5921.jpg",
+    "static/media/cookies.webp": "/NewProjectt/static/media/cookies.f9b4be2da83b628808d1.webp",
+    "static/media/chef2.jpg": "/NewProjectt/static/media/chef2.65b5ac4e57fd89a8fd2a.jpg",
+    "static/media/isha.jpeg": "/NewProjectt/static/media/isha.b9d5b88cbebcd5569f56.jpeg",
+    "static/media/event3.jpg": "/NewProjectt/static/media/event3.f3f1bbcda795653d5b87.jpg",
+    "static/media/cmt.avif": "/NewProjectt/static/media/cmt.a2bea78a96d4516b0b23.avif",
+    "static/media/strawberry.webp": "/NewProjectt/static/media/strawberry.62c13ee87f26e6ae4e20.webp",
+    "static/media/testimonial1.jpg": "/NewProjectt/static/media/testimonial1.19acd997b78cc070a859.jpg",
+    "static/media/icecream.webp": "/NewProjectt/static/media/icecream.e72b4f0ea58973755234.webp",
+    "static/media/Chocolate.avif": "/NewProjectt/static/media/Chocolate.b538ef113a8481cf2a10.avif",
+    "static/media/pht.webp": "/NewProjectt/static/media/pht.50315d5a3cb5e1a73743.webp",
+    "static/media/testimonial2.jfif": "/NewProjectt/static/media/testimonial2.da264562988ff93eb7df.jfif",
+    "static/media/story.webp": "/NewProjectt/static/media/story.0d03ca32ed7c670fe15d.webp",
+    "static/media/testimonial3.jfif": "/NewProjectt/static/media/testimonial3.9b4b9526b23956d7cc2b.jfif",
+    "static/media/chef.avif": "/NewProjectt/static/media/chef.88c5c22ebb23c44d9bf9.avif",
+    "static/media/bg.avif": "/NewProjectt/static/media/bg.e09758fd617c1eff1790.avif",
+    "index.html": "/NewProjectt/index.html",
+    "main.26432ae0.css.map": "/NewProjectt/static/css/main.26432ae0.css.map",
+    "main.7f516967.js.map": "/NewProjectt/static/js/main.7f516967.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26432ae0.css",
+    "static/js/main.7f516967.js"
+  ]
+}
